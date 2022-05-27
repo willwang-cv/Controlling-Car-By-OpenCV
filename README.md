@@ -10,6 +10,8 @@ https://www.bilibili.com/video/BV1cz4y1d7vS/
 
 ---------------------------------
 
-更新，新增代码详细注释，
-![image](https://user-images.githubusercontent.com/29682883/170617343-b0bdcb53-728b-456f-aab6-6c7a434866fe.png)
+更新：为了初学者更好的学习，新增了更详细的代码注释：
 
+![image](https://user-images.githubusercontent.com/29682883/170617968-2b2e7d1f-83a1-47e0-bda4-f5ae9371e5d7.png)
+
+注释好累，给个star吧！
