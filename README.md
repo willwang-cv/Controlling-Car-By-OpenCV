@@ -1,4 +1,4 @@
-# Controlling-Trolley-By-OpenCV
+# Controlling-Car-By-OpenCV
 利用openCV控制单片机小车运动轨迹
 https://www.bilibili.com/video/BV1cz4y1d7vS/
 
