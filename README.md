@@ -5,6 +5,12 @@
 
 使用方法： `visual studio` 打开本项目
 
+环境配置：
+```
+.NetFramework 4.7.2
+```
+
+
 给个免费的Star吧！
 
 note：
